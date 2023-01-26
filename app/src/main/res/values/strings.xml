@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="suit_game">Kertas Batu Gunting</string>
+    <string name="player_one">Pemain 1</string>
+    <string name="com">COM</string>
+    <string name="rock">Batu</string>
+    <string name="scissors">Gunting</string>
+    <string name="vs">VS</string>
+    <string name="paper">Kertas</string>
+</resources>
